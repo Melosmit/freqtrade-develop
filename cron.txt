@@ -1,0 +1,1 @@
+0 12 * * * cd C:\Users\peter\Downloads\Accounts\Melody\freqtrade-develop\freqtrade-develop && python3 commit_bot.py
